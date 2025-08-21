@@ -1,1 +1,1 @@
-# openchash-rules
+# 自定义的openchash规则
